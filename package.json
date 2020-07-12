@@ -12,6 +12,7 @@
   "dependencies": {
     "apollo-boost": "^0.4.9",
     "graphql": "^15.3.0",
+    "parcel": "^1.12.4",
     "vue": "^2.6.11",
     "vue-apollo": "^3.0.3",
     "vue-hot-reload-api": "^2.3.4"
