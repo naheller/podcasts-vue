@@ -1,0 +1,24 @@
+{
+  "name": "podcast-app-vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "dependencies": {
+    "apollo-boost": "^0.4.9",
+    "graphql": "^15.3.0",
+    "vue": "^2.6.11",
+    "vue-apollo": "^3.0.3",
+    "vue-hot-reload-api": "^2.3.4"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.1.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
