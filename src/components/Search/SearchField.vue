@@ -1,6 +1,6 @@
 <template>
   <div>
-    <input type="text" v-model="searchTerm" placeholder="Search podcasts" />
+    <input type="text" v-model="searchTerm" placeholder="Enter podcast name..." />
     <button v-on:click="submitSearch">Search</button>
   </div>
 </template>

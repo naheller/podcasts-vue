@@ -1,5 +1,8 @@
 <template>
-  <search></search>
+  <div>
+    <h2>Vue.js Podcast Search</h2>
+    <search></search>
+  </div>
 </template>
 
 <script>
